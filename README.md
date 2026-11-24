@@ -2,13 +2,13 @@
 
 A series of hands-on projects for learning the **Model Context Protocol (MCP)**, the open standard that lets AI applications connect to external tools, data, and services.
 
-Each project is self-contained in its own folder, with its own README explaining what it builds, how to run it, and what I learned along the way.
+Each project is self-contained in its own folder, with its own README explaining what it builds, how to run it, and things worth knowing.
 
 ## Projects
 
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
-| 01 | [Build a small server and connect](./01-build-a-small-server-and-connect/) | Build a minimal MCP server that exposes a tool, test it with MCP Inspector, and connect it to a real MCP client. | 🚧 In progress |
+| 01 | [Build a small server and connect](./01-build-a-small-server-and-connect/) | Build a minimal MCP server with tools, resources, and a prompt, test it with MCP Inspector, and connect it to a real MCP client. | ✅ Done |
 
 ## What is MCP?
 

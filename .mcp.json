@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "hello-mcp": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "01-build-a-small-server-and-connect",
+        "run",
+        "server.py"
+      ],
+      "env": {}
+    }
+  }
+}
