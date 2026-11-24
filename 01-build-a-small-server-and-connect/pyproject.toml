@@ -1,0 +1,13 @@
+[project]
+name = "01-build-a-small-server-and-connect"
+version = "0.1.0"
+description = "A minimal MCP server exposing simple tools over stdio."
+readme = "README.md"
+authors = [
+    { name = "AminAbd", email = "ameen.abdelmutalab@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "mcp[cli]>=2.3.0",
+]
+
